@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24311" started-at="2018-04-04T18:09:35Z" finished-at="2018-04-04T18:09:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24311" started-at="2018-04-04T18:09:35Z" finished-at="2018-04-04T18:09:59Z">
+      <class name="com.TestCases.TestCasesExecution">
+        <test-method status="PASS" signature="LoginFunctionalityTest()[pri:1, instance:com.TestCases.TestCasesExecution@1604f19]" name="LoginFunctionalityTest" duration-ms="5182" started-at="2018-04-04T23:39:35Z" finished-at="2018-04-04T23:39:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFunctionalityTest -->
+        <test-method status="PASS" signature="Menu_mouseHover_Action()[pri:2, instance:com.TestCases.TestCasesExecution@1604f19]" name="Menu_mouseHover_Action" duration-ms="6021" started-at="2018-04-04T23:39:40Z" finished-at="2018-04-04T23:39:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menu_mouseHover_Action -->
+        <test-method status="PASS" signature="Add_User_Test()[pri:3, instance:com.TestCases.TestCasesExecution@1604f19]" name="Add_User_Test" duration-ms="13045" started-at="2018-04-04T23:39:46Z" finished-at="2018-04-04T23:39:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_User_Test -->
+      </class> <!-- com.TestCases.TestCasesExecution -->
+      <class name="com.TestCases.OpenandCloseBrowser">
+        <test-method status="PASS" signature="openBrowsertest()[pri:0, instance:com.TestCases.OpenandCloseBrowser@193948d]" name="openBrowsertest" is-config="true" duration-ms="7692" started-at="2018-04-04T23:39:27Z" finished-at="2018-04-04T23:39:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowsertest -->
+        <test-method status="PASS" signature="closeBrowsertest()[pri:0, instance:com.TestCases.OpenandCloseBrowser@193948d]" name="closeBrowsertest" is-config="true" duration-ms="1365" started-at="2018-04-04T23:39:59Z" finished-at="2018-04-04T23:40:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowsertest -->
+      </class> <!-- com.TestCases.OpenandCloseBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+| TestBase| | OpenBrowser | | 36 | 04/04/2018 23:39:34 | devpinoyLogger | Chrome Browser Launched
+| Library| | checkLoginFunctionality | | 32 | 04/04/2018 23:39:35 | devpinoyLogger | Username Entered successfully
+| Library| | checkLoginFunctionality | | 38 | 04/04/2018 23:39:35 | devpinoyLogger | Password Entered successfully
+| Library| | checkLoginFunctionality | | 42 | 04/04/2018 23:39:39 | devpinoyLogger | Login button clicked successfully
+| Library| | menu_action_mousehover | | 99 | 04/04/2018 23:39:42 | devpinoyLogger | Move to Admin Menu link successfully
+| Library| | menu_action_mousehover | | 102 | 04/04/2018 23:39:44 | devpinoyLogger | Move to User_Management Menu link successfully
+| Library| | menu_action_mousehover | | 104 | 04/04/2018 23:39:46 | devpinoyLogger | Move to Users sub Menu link and click successfully
+| Library| | Add_User | | 110 | 04/04/2018 23:39:47 | devpinoyLogger | Click on Add Button successfully done
+| Library| | Add_User | | 113 | 04/04/2018 23:39:47 | devpinoyLogger | Select Item from Role dropdown successfully
+| Library| | Add_User | | 119 | 04/04/2018 23:39:50 | devpinoyLogger | Successfully Entered Employee Name
+| Library| | Add_User | | 121 | 04/04/2018 23:39:50 | devpinoyLogger | Successfully Entered UserName
+| Library| | Add_User | | 123 | 04/04/2018 23:39:50 | devpinoyLogger | successfully entered User Status
+| Library| | Add_User | | 126 | 04/04/2018 23:39:51 | devpinoyLogger | Password entered successfully
+| Library| | Add_User | | 128 | 04/04/2018 23:39:51 | devpinoyLogger | Confirm Password successfully Entered
+| Library| | Add_User | | 132 | 04/04/2018 23:39:54 | devpinoyLogger | Record Save successfully
+| TestBase| | CloseBrowser | | 47 | 04/04/2018 23:40:00 | devpinoyLogger | Chrome Browser Instance Closed
